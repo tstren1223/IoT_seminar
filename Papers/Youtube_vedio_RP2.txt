@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=1wkKo-UUxaQ&ab_channel=StevenVanVaerenbergh
+
+This vedio not only shows the RP2 attack but also shows the privacy issues in the data analysis framwork:
+1. analytic & ML models --> Program rewriting and verification
+2. computation infrastructure --> Secure computation
+3. results --> Differential Privacy
+
+But for 3. ==> no current system address the problems: usability of non-experts/broad support for analytics queries/ easy integration with existing data environment.
+
+Also, she gives another kind of solution:
+Privacy-Preserving smart contract with the help of Block Chains.
+
+My ideas:
+This video not only gives the overall view of the challenges in deep learning usage in the perspective of the security, like the hacker could steal the sensitive data by queries to the deep learning models, it also points out the existing security problems in the data analysis framework and their solutions. 
+However, nowadays, we still lack the integrity to have only one systems for even the non-experts.
+The other interesting thing is that she mentioned the concept of the Privacy-Preserving smart contract with the help of the Blockchains as another solution to the privacy issues now.

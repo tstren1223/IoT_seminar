@@ -1,0 +1,5 @@
+1. Scenic and OpenSCENARIO are for the simulations.
+2.3 Q:
+How do we structure these examples of the real world into the simulation?
+How do we simulate the cybersecurity of the sensors?
+how can we abstract this cybersecurity of attacks?
